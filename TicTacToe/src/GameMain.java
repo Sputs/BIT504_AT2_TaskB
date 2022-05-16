@@ -3,6 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 //TEST COMMENT FOR EXPERIMENT_1 BRANCH
+//TEST COMMENT FOR EXPERIMENT_2 BRANCH
 public class GameMain extends JPanel implements MouseListener{
 	//Constants for game 
 	// number of ROWS by COLS cell constants 
