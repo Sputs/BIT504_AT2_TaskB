@@ -1,5 +1,6 @@
 import java.awt.*;
 //TEST COMMENT FOR EXPERIMENT_1 BRANCH
+//TEST COMMENT FOR EXPERIMENT_2 BRANCH
 public class Board {
 	// grid line width
 	public static final int GRID_WIDTH = 8;
